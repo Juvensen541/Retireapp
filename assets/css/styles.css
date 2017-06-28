@@ -1,0 +1,16 @@
+body{
+  background:silver;
+  background-image: url(/Users/juvensenjules/Desktop/ageCalculaterapp/assets/img/508_blue_opt.jpg);
+}
+
+.container{
+  height: 100vh;
+}
+
+label{
+  font-size: 20px;
+}
+
+.btn{
+  margin: 10px;
+}
